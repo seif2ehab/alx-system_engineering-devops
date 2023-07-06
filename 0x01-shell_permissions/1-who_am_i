@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 root
-=======
-username=$(whoami)
->>>>>>> origin/master
