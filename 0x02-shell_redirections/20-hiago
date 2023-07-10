@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "Enter your input: " input && echo "$input" | tr -d 'cC'
+tr -d "Cc"
